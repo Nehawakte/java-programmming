@@ -34,7 +34,7 @@ class Solution {
 	// Driver code 
 	public static void main(String[] args) 
 	{ 
-		String str1 = "GeeksForGeeks"; 
+		String str1 = "Welcome to the"; 
 		
 		// call the function 
 		System.out.println(str1 + " <- Reverse -> "
